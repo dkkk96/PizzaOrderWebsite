@@ -1,0 +1,501 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PizzaBuy.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PizzaBuy.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\css\\StyleSheet1.css",
+      "PackagePath": "staticwebassets\\css\\StyleSheet1.css"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\css\\StyleSheet10.css",
+      "PackagePath": "staticwebassets\\css\\StyleSheet10.css"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\css\\StyleSheet11.css",
+      "PackagePath": "staticwebassets\\css\\StyleSheet11.css"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\css\\StyleSheet2.css",
+      "PackagePath": "staticwebassets\\css\\StyleSheet2.css"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\css\\StyleSheet3.css",
+      "PackagePath": "staticwebassets\\css\\StyleSheet3.css"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\css\\StyleSheet4.css",
+      "PackagePath": "staticwebassets\\css\\StyleSheet4.css"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\css\\StyleSheet5.css",
+      "PackagePath": "staticwebassets\\css\\StyleSheet5.css"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\css\\StyleSheet6.css",
+      "PackagePath": "staticwebassets\\css\\StyleSheet6.css"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\css\\StyleSheet7.css",
+      "PackagePath": "staticwebassets\\css\\StyleSheet7.css"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\css\\StyleSheet8.css",
+      "PackagePath": "staticwebassets\\css\\StyleSheet8.css"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\css\\StyleSheet9.css",
+      "PackagePath": "staticwebassets\\css\\StyleSheet9.css"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\css\\additional.css",
+      "PackagePath": "staticwebassets\\css\\additional.css"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\css\\credit-card.css",
+      "PackagePath": "staticwebassets\\css\\credit-card.css"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\css\\mobirise2.css",
+      "PackagePath": "staticwebassets\\css\\mobirise2.css"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\css\\mobirise2.eot",
+      "PackagePath": "staticwebassets\\css\\mobirise2.eot"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\css\\mobirise2.svg",
+      "PackagePath": "staticwebassets\\css\\mobirise2.svg"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\css\\mobirise2.ttf",
+      "PackagePath": "staticwebassets\\css\\mobirise2.ttf"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\css\\mobirise2.woff",
+      "PackagePath": "staticwebassets\\css\\mobirise2.woff"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\css\\project.mobirise",
+      "PackagePath": "staticwebassets\\css\\project.mobirise"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\css\\socicon.eot",
+      "PackagePath": "staticwebassets\\css\\socicon.eot"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\css\\socicon.svg",
+      "PackagePath": "staticwebassets\\css\\socicon.svg"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\css\\socicon.ttf",
+      "PackagePath": "staticwebassets\\css\\socicon.ttf"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\css\\socicon.woff",
+      "PackagePath": "staticwebassets\\css\\socicon.woff"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\css\\socicon.woff2",
+      "PackagePath": "staticwebassets\\css\\socicon.woff2"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\css\\style1.css",
+      "PackagePath": "staticwebassets\\css\\style1.css"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\images\\logo5.png",
+      "PackagePath": "staticwebassets\\images\\logo5.png"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\images\\photo-1517191434949-5e90cd67d2b6.jpeg",
+      "PackagePath": "staticwebassets\\images\\photo-1517191434949-5e90cd67d2b6.jpeg"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\images\\photo-1572802419224-296b0aeee0d9.jpeg",
+      "PackagePath": "staticwebassets\\images\\photo-1572802419224-296b0aeee0d9.jpeg"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\images\\photo-1588315029754-2dd089d39a1a.jpeg",
+      "PackagePath": "staticwebassets\\images\\photo-1588315029754-2dd089d39a1a.jpeg"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\images\\photo-1595708684082-a173bb3a06c5.jpeg",
+      "PackagePath": "staticwebassets\\images\\photo-1595708684082-a173bb3a06c5.jpeg"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\images\\photo-1611915365928-565c527a0590.jpeg",
+      "PackagePath": "staticwebassets\\images\\photo-1611915365928-565c527a0590.jpeg"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\images\\photo-1625014618427-fbc980b974f5.jpeg",
+      "PackagePath": "staticwebassets\\images\\photo-1625014618427-fbc980b974f5.jpeg"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\images\\photo-1627461985459-51600559fffe.jpeg",
+      "PackagePath": "staticwebassets\\images\\photo-1627461985459-51600559fffe.jpeg"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\images\\photo-1631700611307-37dbcb89ef7e.jpeg",
+      "PackagePath": "staticwebassets\\images\\photo-1631700611307-37dbcb89ef7e.jpeg"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\images\\photo-1633040248073-9a31468f7e99.jpeg",
+      "PackagePath": "staticwebassets\\images\\photo-1633040248073-9a31468f7e99.jpeg"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\images\\photo-1639558360219-544c1ea2a4df.jpeg",
+      "PackagePath": "staticwebassets\\images\\photo-1639558360219-544c1ea2a4df.jpeg"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\images\\photo-1642427749670-f20e2e76ed8c.jpeg",
+      "PackagePath": "staticwebassets\\images\\photo-1642427749670-f20e2e76ed8c.jpeg"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\images\\photo-1668081177040-3d6a3eaf2218.jpeg",
+      "PackagePath": "staticwebassets\\images\\photo-1668081177040-3d6a3eaf2218.jpeg"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\images\\pizza-gallery-1.jpeg",
+      "PackagePath": "staticwebassets\\images\\pizza-gallery-1.jpeg"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\images\\pizza-gallery-2.jpeg",
+      "PackagePath": "staticwebassets\\images\\pizza-gallery-2.jpeg"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\images\\pizza-gallery-3.jpeg",
+      "PackagePath": "staticwebassets\\images\\pizza-gallery-3.jpeg"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\images\\pizza-gallery-4.jpeg",
+      "PackagePath": "staticwebassets\\images\\pizza-gallery-4.jpeg"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\images\\pizza-gallery-5.jpeg",
+      "PackagePath": "staticwebassets\\images\\pizza-gallery-5.jpeg"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\images\\pizza-gallery-6.jpeg",
+      "PackagePath": "staticwebassets\\images\\pizza-gallery-6.jpeg"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\images\\pizza-gallery-7.jpeg",
+      "PackagePath": "staticwebassets\\images\\pizza-gallery-7.jpeg"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\images\\pizza-gallery-8.jpeg",
+      "PackagePath": "staticwebassets\\images\\pizza-gallery-8.jpeg"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\js\\formoid.min.js",
+      "PackagePath": "staticwebassets\\js\\formoid.min.js"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\js\\index.js",
+      "PackagePath": "staticwebassets\\js\\index.js"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\js\\navbar-dropdown.js",
+      "PackagePath": "staticwebassets\\js\\navbar-dropdown.js"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\js\\smooth-scroll.js",
+      "PackagePath": "staticwebassets\\js\\smooth-scroll.js"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.PizzaBuy.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.PizzaBuy.props",
+      "PackagePath": "build\\PizzaBuy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.PizzaBuy.props",
+      "PackagePath": "buildMultiTargeting\\PizzaBuy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.PizzaBuy.props",
+      "PackagePath": "buildTransitive\\PizzaBuy.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
