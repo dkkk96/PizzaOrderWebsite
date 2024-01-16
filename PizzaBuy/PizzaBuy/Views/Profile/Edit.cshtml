@@ -1,0 +1,86 @@
+﻿@model PizzaBuy.Models.ViewModel.EditProfileRequest
+@{
+}
+
+@if (Model != null)
+{
+    <form class="container-fluid vh-120 d-flex justify-content-center align-items-center" style="background: linear-gradient(to right, #c0c0aa, #1cefff); border-radius: 30px;" method="post">
+
+        <div class="container">
+            <div class="row d-flex justify-content-center align-items-center h-100">
+                <div class="col-xl-9 container mb-4">
+                    <h1 class="text-center text-white mb-4">Edit Profile</h1>
+
+                    <div class="card" style="border-radius: 15px;">
+                        <div class="card-body">
+                            <div class="row align-items-center pt-4 pb-3">
+                                <div class="col-md-3 ps-5">
+                                    <h6 class="mb-0">User ID</h6>
+                                </div>
+                                
+                                
+                                    <div class="col-md-9 pe-5">
+                                        <input type="text" class="form-control form-control-lg" id="id" asp-for="ProfileId"  readonly />
+                                    </div>
+                                    
+                                
+                              
+                                
+                            </div>
+
+                            <div class="row align-items-center pt-4 pb-3">
+                                <div class="col-md-3 ps-5">
+                                    <h6 class="mb-0">Profile Name</h6>
+                                </div>
+                                <div class="col-md-9 pe-5">
+                                    <input type="text" class="form-control form-control-lg" id="profileName" asp-for="ProfileName" />
+                                </div>
+                            </div>
+                            <hr class="mx-n3">
+
+                            <div class="row align-items-center pt-4 pb-3">
+                                <div class="col-md-3 ps-5">
+                                    <h6 class="mb-0">Profile Age</h6>
+                                </div>
+                                <div class="col-md-9 pe-5">
+                                    <input type="text" class="form-control form-control-lg" id="profileAge" asp-for="ProfileAge" />
+                                </div>
+                            </div>
+                            <hr class="mx-n3">
+
+                            <div class="row align-items-center pt-4 pb-3">
+                                <div class="col-md-3 ps-5">
+                                    <h6 class="mb-0">Profile Age</h6>
+                                </div>
+                                <div class="col-md-9 pe-5">
+                                    <input type="text" class="form-control form-control-lg" id="profileAge" asp-for="ProfileUserName" />
+                                </div>
+                            </div>
+                            <hr class="mx-n3">
+                            <div class="row align-items-center pt-4 pb-3">
+                                <div class="col-md-3 ps-5">
+                                    <h6 class="mb-0">Profile Email</h6>
+                                </div>
+                                <div class="col-md-9 pe-5">
+                                    <input type="text" class="form-control form-control-lg" id="profileAge" asp-for="ProfileEmail" />
+                                </div>
+                            </div>
+                            <hr class="mx-n3">
+
+                            <div class="row align-items-center pt-4 pb-3">
+                                <div class="col-md-12 text-center">
+                                    <button type="submit" class="btn btn-danger btn-lg">Update Profile</button>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
+}
+else
+{
+    <p>No Products Added</p>
+}

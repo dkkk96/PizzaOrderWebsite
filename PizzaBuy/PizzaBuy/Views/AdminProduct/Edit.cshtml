@@ -1,0 +1,159 @@
+﻿@model PizzaBuy.Models.ViewModel.EditProductRequest
+
+
+@{
+}
+
+@if(Model != null)
+{
+    <h1 class="mt-3 mb-3 h3">
+        <br />
+        <br />
+        <br />
+    </h1>
+    <form class="container-fluid vh-120 d-flex justify-content-center align-items-center" style="background: linear-gradient(to right, #D14545, #FFD045);; border-radius: 30px" method="post">
+
+        <div class="container pt-5">
+            <div class="row d-flex justify-content-center align-items-center h-100">
+                <div class="col-xl-9 container mb-4">
+
+                    <h1 class="text-center text-white mb-4">Edit Product</h1>
+
+                    <div class="card" style="border-radius: 15px;">
+                        <div class="card-body">
+                            <div class="row align-items-center pt-4 pb-3">
+                                <div class="col-md-3 ps-5">
+
+                                    <h6 class="mb-0">Pizza ID</h6>
+
+                                </div>
+                                <div class="col-md-9 pe-5">
+
+                                    <input type="text" class="form-control form-control-lg" id="id"  asp-for="Id" readonly />
+
+                                </div>
+                            </div>
+
+                            <div class="row align-items-center pt-4 pb-3">
+                                <div class="col-md-3 ps-5">
+
+                                    <h6 class="mb-0">Pizza Name</h6>
+
+                                </div>
+                                <div class="col-md-9 pe-5">
+
+                                    <input type="text" class="form-control form-control-lg" id="productName" name="productName" asp-for="ProductName" />
+
+                                </div>
+                            </div>
+                            <hr class="mx-n3">
+
+                            <div class="row align-items-center pt-4 pb-3">
+                                <div class="col-md-3 ps-5">
+
+                                    <h6 class="mb-0">Pizza Description</h6>
+
+                                </div>
+                                <div class="col-md-9 pe-5">
+
+                                    <input type="text" class="form-control form-control-lg" id="productDescription" name="productDescription" asp-for="ProductDescription" />
+
+                                </div>
+                            </div>
+                            <hr class="mx-n3">
+
+                            <div class="row align-items-center pt-4 pb-3">
+                                <div class="col-md-3 ps-5">
+
+                                    <h6 class="mb-0">Pizza Prize</h6>
+
+                                </div>
+                                <div class="col-md-9 pe-5">
+
+                                    <input type="number" class="form-control form-control-lg" id="productPrice" name="productPrice" asp-for="ProductPrice" />
+
+                                </div>
+                            </div>
+                            <hr class="mx-n3">
+
+                            <div class="row align-items-center py-3">
+                                <div class="col-md-3 ps-5">
+
+                                    <h6 class="mb-0">Upload Image</h6>
+
+                                </div>
+                                <div class="col-md-9 pe-5">
+
+                                    <input class="form-control form-control-lg" id="formFileLg" type="text" name="productImage" asp-for="ProductImage" />
+                                    <div class="small text-muted mt-2">
+                                        Upload Pizza Top View Image
+                                    </div>
+
+                                </div>
+                                <hr class="col-md-9 pe-5">
+
+
+                                <div class="row align-items-center pt-4 pb-3">
+                                    <div class="col-md-3 ps-5">
+
+                                        <h6 class="mb-0">Is Pizza Available?</h6>
+
+                                    </div>
+                                    <div class="col-md-9 pe-5">
+
+                                        <input class="form-check-input" type="checkbox" id="visible" asp-for="ProductAvailable">
+
+                                    </div>
+
+
+                                    <div class="row align-items-center pt-4 pb-3">
+                                        <div class="col-md-3 ps-5">
+
+                                            <h6 class="mb-0">Pizza Type</h6>
+
+                                        </div>
+                                        <div class="col-md-9 pe-5">
+
+                                            <input type="text" class="form-control form-control-lg" id="type" name="type" asp-for="Type" />
+
+                                        </div>
+                                    </div>
+                                    <hr class="mx-n3 d-flex">
+                                    <div class="px-5 py-4">
+                                        <button type="submit" class="btn btn-primary btn-lg">Update Product</button>
+                                        <button type="submit" class="btn btn-danger btn-lg ms-2" asp-area="" asp-controller="AdminProduct" asp-action="Delete">Delete Product</button>
+                                    </div>
+                                    
+
+                                </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            </div>
+    </form>
+}
+else
+{
+    <p>No Products Added</p>
+}
