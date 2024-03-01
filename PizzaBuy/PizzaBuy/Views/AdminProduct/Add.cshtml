@@ -58,6 +58,9 @@
 
     </form>
 </div> *@
+
+
+
 <h1 class="mt-3 mb-3 h3">
     <br />
     <br />
@@ -83,7 +86,7 @@
                                 </div>
                                 <div class="col-md-9 pe-5">
 
-                                    <input type="text" class="form-control form-control-lg" id="productName" name="productName" asp-for="ProductName" />
+                                    <input type="text" class="form-control form-control-lg" id="productName" name="productName" asp-for="ProductName" required/>
 
                                 </div>
                             </div>
@@ -97,7 +100,7 @@
                                 </div>
                                 <div class="col-md-9 pe-5">
 
-                                    <input type="text" class="form-control form-control-lg" id="productDescription" name="productDescription" asp-for="ProductDescription" />
+                                    <input type="text" class="form-control form-control-lg" id="productDescription" name="productDescription" asp-for="ProductDescription" required />
 
                                 </div>
                             </div>
@@ -111,7 +114,7 @@
                                 </div>
                                 <div class="col-md-9 pe-5">
 
-                                    <input type="number" class="form-control form-control-lg" id="productPrice" name="productPrice" asp-for="ProductPrice" />
+                                    <input type="number" class="form-control form-control-lg" id="productPrice" name="productPrice" asp-for="ProductPrice" required/>
 
                                 </div>
                             </div>
@@ -125,7 +128,7 @@
                                 </div>
                                 <div class="col-md-9 pe-5">
 
-                                    <input class="form-control form-control-lg" id="formFileLg" type="text" name="productImage" asp-for="ProductImage" />
+                                    <input class="form-control form-control-lg" id="formFileLg" type="text" name="productImage" asp-for="ProductImage" required />
                                     <div class="small text-muted mt-2">
                                         Upload Pizza Top View Image
                                     </div>

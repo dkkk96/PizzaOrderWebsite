@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "sUCm++EwaVwPBba0fzRpscWBi/ZYEWIm9XCHbseX+2s=",
+  "Hash": "XbMRPQpPWmaT0cOj6/snPwspxUu4Z9dcAQpHamgs1dE=",
   "Source": "PizzaBuy",
   "BasePath": "_content/PizzaBuy",
   "Mode": "Default",
@@ -1098,6 +1098,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Identity": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\js\\card-function.js",
+      "SourceId": "PizzaBuy",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\",
+      "BasePath": "_content/PizzaBuy",
+      "RelativePath": "js/card-function.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\card-function.js"
     },
     {
       "Identity": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\js\\formoid.min.js",

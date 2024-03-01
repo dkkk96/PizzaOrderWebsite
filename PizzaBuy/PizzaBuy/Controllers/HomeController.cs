@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using PizzaBuy.Models;
+using PizzaBuy.Models.ViewModel;
 using System.Diagnostics;
 
 namespace PizzaBuy.Controllers
@@ -13,12 +14,30 @@ namespace PizzaBuy.Controllers
             _logger = logger;
         }
 
+        [HttpGet]
         public IActionResult Index()
         {
-            return View();
+            return View(new SubscribeEmailViewModel());
         }
 
-        public IActionResult Privacy()
+        [HttpPost]
+        public IActionResult Index(SubscribeEmailViewModel subscribeEmailViewModel)
+        {
+            if (ModelState.IsValid)
+            {
+                // Process the subscription or store the email as needed
+                TempData["SubscribedEmail"] = subscribeEmailViewModel.Email1;
+                TempData["notifyMessage"] = "Subscribed";
+                // Redirect to the SubscribeEmail action in the Customer controller
+                return RedirectToAction("SubscribeEmail", "Customer");
+            }
+
+            // If the model state is not valid, return to the same view with validation errors
+            return View(subscribeEmailViewModel);
+        }
+    
+
+    public IActionResult Privacy()
         {
             return View();
         }
@@ -28,5 +47,7 @@ namespace PizzaBuy.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
+
     }
 }

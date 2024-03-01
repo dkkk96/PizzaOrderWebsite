@@ -27,6 +27,8 @@ namespace PizzaBuy.Controllers
         
         public async Task<IActionResult> Add(AddProductRequest addProductRequest)
         {
+            TempData["ProductAdd"] = "Product Added Successfully";
+            //view model is converted into domain model
             var product = new Product
             {
                 ProductName = addProductRequest.ProductName,
@@ -37,8 +39,8 @@ namespace PizzaBuy.Controllers
                 Type = addProductRequest.Type,
             };
             await productRepository.AddAsync(product);
-
-            return RedirectToAction("Add");
+            TempData["notifyMessage"] = "Product Added Successfully";
+            return RedirectToAction("List");
         }
 
         [Authorize(Roles = "Admin")]
@@ -104,11 +106,12 @@ namespace PizzaBuy.Controllers
 
             if(updatedProduct1 != null)
             {
-                //show success
+                TempData["notifyMessage"] = "Product Updated Successfully";
                 return RedirectToAction("List");
             }
             else
             {
+                TempData["notifyMessage"] = "Something went wrong";
                 return RedirectToAction("Edit");
             }
         }
@@ -122,11 +125,13 @@ namespace PizzaBuy.Controllers
             if(deletedProduct != null)
             {
                 //show success notification
+                TempData["notifyMessage"] = "Product Deleted...";
                 return RedirectToAction("List");
             }
             else
             {
                 //show error notification
+                TempData["notifyMessage"] = "Something Went Wrong...";
                 return RedirectToAction("Edit", new { id = editProductRequest.Id });
             }
 

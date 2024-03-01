@@ -26,6 +26,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/DAC/Video Lectures/DotNet/Udemy/Final Dot net/PizzaBuy/PizzaBuy/PizzaBuy/Views/Account/PaymentGateway/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxQYXltZW50R2F0ZXdheVxDaGVja291dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DAC/Video Lectures/DotNet/Udemy/Final Dot net/PizzaBuy/PizzaBuy/PizzaBuy/Views/Account/PaymentGateway/OrderPlaced.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxQYXltZW50R2F0ZXdheVxPcmRlclBsYWNlZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/DAC/Video Lectures/DotNet/Udemy/Final Dot net/PizzaBuy/PizzaBuy/PizzaBuy/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -40,6 +48,22 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/DAC/Video Lectures/DotNet/Udemy/Final Dot net/PizzaBuy/PizzaBuy/PizzaBuy/Views/AdminProduct/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Qcm9kdWN0XExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DAC/Video Lectures/DotNet/Udemy/Final Dot net/PizzaBuy/PizzaBuy/PizzaBuy/Views/Cart/AddToCart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxBZGRUb0NhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DAC/Video Lectures/DotNet/Udemy/Final Dot net/PizzaBuy/PizzaBuy/PizzaBuy/Views/Cart/CartItems.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxDYXJ0SXRlbXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DAC/Video Lectures/DotNet/Udemy/Final Dot net/PizzaBuy/PizzaBuy/PizzaBuy/Views/CheckOut/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tPdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DAC/Video Lectures/DotNet/Udemy/Final Dot net/PizzaBuy/PizzaBuy/PizzaBuy/Views/CheckOut/OrderConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tPdXRcT3JkZXJDb25maXJtYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/DAC/Video Lectures/DotNet/Udemy/Final Dot net/PizzaBuy/PizzaBuy/PizzaBuy/Views/Home/Index.cshtml]
@@ -58,8 +82,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudVxWZWdNZW51LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/DAC/Video Lectures/DotNet/Udemy/Final Dot net/PizzaBuy/PizzaBuy/PizzaBuy/Views/Order/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DAC/Video Lectures/DotNet/Udemy/Final Dot net/PizzaBuy/PizzaBuy/PizzaBuy/Views/Order/PlaceOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcUGxhY2VPcmRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DAC/Video Lectures/DotNet/Udemy/Final Dot net/PizzaBuy/PizzaBuy/PizzaBuy/Views/PaymentGateway/OrderPlaced.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudEdhdGV3YXlcT3JkZXJQbGFjZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/DAC/Video Lectures/DotNet/Udemy/Final Dot net/PizzaBuy/PizzaBuy/PizzaBuy/Views/Profile/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DAC/Video Lectures/DotNet/Udemy/Final Dot net/PizzaBuy/PizzaBuy/PizzaBuy/Views/Shared/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENoZWNrb3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/DAC/Video Lectures/DotNet/Udemy/Final Dot net/PizzaBuy/PizzaBuy/PizzaBuy/Views/Shared/Error.cshtml]
@@ -74,8 +114,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxGb290ZXJWaWV3LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DAC/Video Lectures/DotNet/Udemy/Final Dot net/PizzaBuy/PizzaBuy/PizzaBuy/Views/Shared/Pay.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBheS5jc2h0bWw=
+[D:/DAC/Video Lectures/DotNet/Udemy/Final Dot net/PizzaBuy/PizzaBuy/PizzaBuy/Views/Shared/_Notification.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DAC/Video Lectures/DotNet/Udemy/Final Dot net/PizzaBuy/PizzaBuy/PizzaBuy/Views/Shared/_NotificationError.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb25FcnJvci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/DAC/Video Lectures/DotNet/Udemy/Final Dot net/PizzaBuy/PizzaBuy/PizzaBuy/Views/Shared/_ValidationScriptsPartial.cshtml]

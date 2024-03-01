@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using PizzaBuy.Data;
 using PizzaBuy.Repositories;
+using Stripe;
 
 internal class Program
 {
@@ -39,6 +40,8 @@ internal class Program
         //Repo injected
         builder.Services.AddScoped<IProductRepository, ProductRepository>();
         builder.Services.AddScoped<IProfileRepository, ProfileRepository>();
+        builder.Services.AddScoped<ICartItemRepository, CartItemRepository>();
+        builder.Services.AddScoped<IOrderRepository, OrderRepository>();
 
         var app = builder.Build();
 
@@ -54,6 +57,8 @@ internal class Program
         app.UseStaticFiles();
 
         app.UseRouting();
+
+        StripeConfiguration.ApiKey = builder.Configuration.GetSection("Stripe:SecretKey").Get<string>();
 
         app.UseAuthentication();
         app.UseAuthorization();

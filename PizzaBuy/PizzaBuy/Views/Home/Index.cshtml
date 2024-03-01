@@ -1,6 +1,12 @@
+﻿@model PizzaBuy.Models.ViewModel.SubscribeEmailViewModel
+
+
+
 ﻿@{
     ViewData["Title"] = "Home Page";
 }
+@await Html.PartialAsync("_Notification");
+
 
 <!DOCTYPE html>
 <html>
@@ -62,8 +68,8 @@
         }</style>
 </head>
 <body>
- 
 
+  
 
 
     <section class="header18 cid-u1kYngNGNL mbr-fullscreen" data-bg-video="https://www.youtube.com/embed/T3AHBe0I0yc?si=Mrg7MLqFQXtOQQDf;1&amp;loop&#x3D;1&amp;playlist&#x3D;ywrLSeDVH5U&amp;t&#x3D;20&amp;mute&#x3D;1&amp;playsinline&#x3D;1&amp;controls&#x3D;0&amp;showinfo&#x3D;0&amp;autohide&#x3D;1&amp;allowfullscreen&#x3D;true&amp;mode&#x3D;transparent" id="hero-16-u1kYngNGNL">
@@ -76,7 +82,7 @@
                     </h1>
                     <p class="mbr-fonts-style mbr-text mbr-white mb-4 display-7">Indulge in the Ultimate Pizza Experience - Fresh, Flavorful, and Irresistible!</p>
                     <div class="mbr-section-btn">
-                        <a class="btn btn-white-outline display-7" href="#">Order Now</a>
+                        <a class="btn btn-white-outline display-7" asp-controller="Menu" asp-action = "NonVegMenu">Order Now</a>
                     </div>
                 </div>
             </div>
@@ -135,35 +141,28 @@
         </div>
     </section>
 
-    <section class="header2 cid-u1kYngOOSP" id="subscription-form-1-u1kYngOOSP">
+     <section class="header2 cid-u1kYngOOSP" id="subscription-form-1-u1kYngOOSP">
         <div class="container">
-            <div class="row content-wrapper justify-content-center">
-                <div class="col-lg-8 mbr-form">
-                    <div class="">
-                        <h1 class="mbr-section-title mbr-fonts-style mb-5 display-1">
-                            <strong>Stay Updated with PizzaRave!</strong>
-                        </h1>
-                    </div>
-                    <div class="text-wrapper align-left" data-form-type="formoid">
-                        <form action="https://mobirise.eu/" method="POST" class="mbr-form form-with-styler" data-form-title="Form Name">
-                            <input type="hidden" name="email" data-form-email="true" value="">
-                            <div class="row">
-                                <div hidden="hidden" data-form-alert="" class="alert alert-success col-12">Thanks for filling out the form!</div>
-                                <div hidden="hidden" data-form-alert-danger="" class="alert alert-danger col-12">
-                                    Oops...! some problem!
-                                </div>
-                            </div>
-                            <div class="dragArea row">
-                                <div data-for="email" class="col-lg-6 col-md-6 col-sm-12 form-group">
-                                    <input type="email" name="email" placeholder="test@email.com" data-form-field="email" class="form-control display-7" value="" id="email-header02-0">
-                                </div>
-                                <div class="col-auto mbr-section-btn"><button type="submit" class="w-100 btn btn-primary display-7">Subscribe Now</button></div>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-            </div>
+       <div class="row content-wrapper justify-content-center">
+     <div class="col-lg-8 mbr-form">
+      <div class="">
+        <h1 class="mbr-section-title mbr-fonts-style mb-5 display-1">
+     <strong>Stay Updated with PizzaRave!</strong>
+     </h1>
         </div>
+    <div class="text-wrapper align-left" data-form-type="formoid">
+    <form method="post">
+        <input type="email" asp-for="Email1" placeholder="test@email.com" class="form-control display-4" id="email-header02-0" required>
+        <br />
+       
+        <div class="col-auto mbr-section-btn"><button type="submit" class="w-100 btn btn-primary display-7">Subscribe Now</button></div>
+       
+    </form>
+    
+    </div>
+      </div>
+      </div>
+     </div>
     </section>
 
     <section class="list05 cid-u1kYngO6hX" id="faq-3-u1kYngO6hX">
@@ -333,7 +332,7 @@
         </div>
     </section>
 
-    
+
 
     <section class="image08 cid-u1kYngO3BK" id="image-12-u1kYngO3BK">
         <div class="container">
@@ -627,9 +626,36 @@
         </div>
     </section>
 
-    
+    @*experiment start*@
+   @*  <section class="header2 cid-u1kYngOOSP" id="subscription-form-1-u1kYngOOSP">
+        <div class="container">
+            <div class="row content-wrapper justify-content-center">
+                <div class="col-lg-8 mbr-form">
+                    <div class="">
+                        <h1 class="mbr-section-title mbr-fonts-style mb-5 display-1">
+                            <strong>Get in Touch Now</strong>
+                        </h1>
+                    </div>
+                    <div class="text-wrapper align-left" data-form-type="formoid">
+                        <form method="post">
+                            <input type="text" asp-for="Email1" placeholder="Name" class="form-control display-4" id="email-header02-0">
+                            <br />
+                            <input type="email" asp-for="Email1" placeholder="test@email.com" class="form-control display-4" id="email-header02-0">
+                            <br />
+                            <textarea asp-for="Email1" placeholder="message" class="form-control display-4" id="textarea-form02-0"></textarea>
+                            <br />
 
-    <section class="form5 cid-u1kYngPrxX" id="contact-form-2-u1kYngPrxX">
+                            <div class="col-auto mbr-section-btn"><button type="submit" class="w-100 btn btn-primary display-7">Send</button></div>
+
+                        </form>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section> *@
+    @* experiment end *@
+   @*  <section class="form5 cid-u1kYngPrxX" id="contact-form-2-u1kYngPrxX">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-12 content-head">
@@ -666,7 +692,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> *@
 
     <section class="contacts02 map1 cid-u1kYngPK8N" id="contacts-2-u1kYngPK8N">
         <div class="container">
@@ -700,7 +726,7 @@
         </div>
     </section>
 
-    
+
 
     <script src="/js/bootstrap.bundle.min.js"></script>
     <script src="/js/formid.min.js"></script>
@@ -711,13 +737,18 @@
 
     <script>
 
-        (function(){
-          var animationInput = document.createElement('input');
-          animationInput.setAttribute('name', 'animation');
-          animationInput.setAttribute('type', 'hidden');
-          document.body.append(animationInput);
+        (function () {
+            var animationInput = document.createElement('input');
+            animationInput.setAttribute('name', 'animation');
+            animationInput.setAttribute('type', 'hidden');
+            document.body.append(animationInput);
         })();
 
     </script>
+
+
+    
+
+
 </body>
 </html>

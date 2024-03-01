@@ -225,6 +225,10 @@
       "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
     },
     {
+      "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\js\\card-function.js",
+      "PackagePath": "staticwebassets\\js\\card-function.js"
+    },
+    {
       "Id": "D:\\DAC\\Video Lectures\\DotNet\\Udemy\\Final Dot net\\PizzaBuy\\PizzaBuy\\PizzaBuy\\wwwroot\\js\\formoid.min.js",
       "PackagePath": "staticwebassets\\js\\formoid.min.js"
     },

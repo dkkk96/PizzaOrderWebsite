@@ -131,30 +131,36 @@ namespace PizzaBuy.Controllers
         [HttpPost]
         public async Task<ActionResult> Register(RegisterViewModel model)
         {
-            var user = new IdentityUser { UserName = model.Username, Email = model.Email };
-            var result = await userManager.CreateAsync(user, model.Password);
-
-            if (result.Succeeded)
+            if(ModelState.IsValid)
             {
-                // Create a Profile for the user
-                var profile = new Profile
+                var user = new IdentityUser { UserName = model.Username, Email = model.Email };
+                var result = await userManager.CreateAsync(user, model.Password);
+
+                if (result.Succeeded)
                 {
-                    ProfileId = Guid.NewGuid().ToString(),
-                    ProfileName = "DefaultProfileName",
-                    ProfileAge = 0,
-                    UserId = user.Id
-                };
+                    // Create a Profile for the user
+                    var profile = new Profile
+                    {
+                        ProfileId = Guid.NewGuid().ToString(),
+                        ProfileName = "DefaultProfileName",
+                        ProfileAge = 0,
+                        UserId = user.Id
+                    };
 
-                await profileRepository.AddAsync(profile);
+                    await profileRepository.AddAsync(profile);
 
-                await userManager.AddToRoleAsync(user, "User");
+                    await userManager.AddToRoleAsync(user, "User");
 
-                // Show success notification
-                return RedirectToAction("Register");
+                    // Show success notification
+                    TempData["notifyMessage"] = "Congratulations!!! You Are Registred Successfully";
+                    return RedirectToAction("Login");
+                }
+
+                // Show error notification
+                TempData["notifyMessage"] = "Something Went Wrong...";
+                ModelState.AddModelError(string.Empty, "Registration failed.");
             }
-
-            // Show error notification
-            ModelState.AddModelError(string.Empty, "Registration failed.");
+ 
             return View();
         }
 
@@ -164,6 +170,11 @@ namespace PizzaBuy.Controllers
         [HttpPost]
         public async Task<ActionResult> Login(LoginViewModel model)
         {
+            if(!ModelState.IsValid)
+            {
+                return View();
+
+            }
             var result = await signInManager.PasswordSignInAsync(model.Username, model.Password, false, false);
 
             if (result.Succeeded)

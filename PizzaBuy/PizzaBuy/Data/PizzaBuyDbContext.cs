@@ -10,5 +10,9 @@ namespace PizzaBuy.Data
         }
 
         public DbSet<Product> Products { get; set; }
+        public DbSet<CartItem> CartItems { get; set; }
+        public DbSet<Order> Orders { get; set; }
+        public DbSet<SubscribeEmail> SubscribeEmails { get; set; }
+        public DbSet<ContactUs> ContactUs { get; set; }
     }
 }
